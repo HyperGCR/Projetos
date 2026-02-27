@@ -26,17 +26,11 @@ public class atividade1 {
         }else{
             maiordeidade = false;
         }
-        
-        
-
-
         System.out.println("Idade: "+ idade);
         System.out.println("Altura: "+ altura);
         System.out.println("Sexo: "+ sexo);
         System.out.println("Maior de idade: "+ maiordeidade);
-
         input.close();
-    }
-
     
+    }
 }

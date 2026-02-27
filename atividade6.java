@@ -12,7 +12,7 @@ Scanner input = new Scanner(System.in);
         for(int j = 0; j < 3; j++){
             System.out.print("Digite um valor: ");
             matriz[i][j] = input.nextInt();
-
+            
         }
 
     }
